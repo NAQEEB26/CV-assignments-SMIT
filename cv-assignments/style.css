@@ -1,0 +1,11 @@
+h3{
+    background-color: gray;
+}
+body{
+    border: 5px solid  burlywood
+    ;
+    width: 50%;
+    margin: 50px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
